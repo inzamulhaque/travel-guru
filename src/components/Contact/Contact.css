@@ -1,0 +1,6 @@
+.form-box-style {
+    border-radius: 34px;
+    background: #ffffff;
+    box-shadow: 23px 23px 46px #858585,
+        -23px -23px 46px #ffffff;
+}
